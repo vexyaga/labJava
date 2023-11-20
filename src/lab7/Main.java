@@ -40,6 +40,7 @@ public class Main {
         });
         System.out.println(papa);
     }
+
     public static void problema2_var2(){
         List<String> papa = Arrays.asList("mere","pere","morcovi","icecream","boba");
         List<String> result = papa.stream()
