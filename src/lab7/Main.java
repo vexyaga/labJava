@@ -32,6 +32,7 @@ public class Main {
 
         System.out.println(v);
     }
+
     public static void problema2_var1(){
         List<String> papa = Arrays.asList("mere","pere","morcovi","icecream","boba");
 
